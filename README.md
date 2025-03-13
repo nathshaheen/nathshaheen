@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I’m Nathan 👋
 
-<!--
-**nathshaheen/nathshaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A first year Master of Information Technology student at the University of New South Wales!
 
-Here are some ideas to get you started:
+📫 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/nathan-shaheen/) or via email at nathshaheen1@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently studying:
+  - COMP9102/3131 Programming Languages and Compilers
+
+## My Statistics:
+
+<div>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nathshaheen&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="GitHub statistics" align="left" height="140rem"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathshaheen&theme=dark&layout=compact" alt="GitHub language statistics" align="left" height="140rem"/>
+  <img src="https://leetcard.jacoblin.cool/nvvvthn?theme=dark&font=Source%20Code%20Pro" alt="LeetCode statistics" align="left" height="140rem"/>
+</div>
